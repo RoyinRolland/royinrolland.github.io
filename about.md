@@ -1,15 +1,25 @@
----
-layout: page
-title: About
+yout: page
+#title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software engineer at [Cloud Times](http://www.cloud-times.com/). I am interested in different aspects of programming and particularly in large and distributed software development and modularization techniques.
 
-### More Information
+I live in Beijing, China.
 
-A place to include any other types of information that you'd like to include about yourself.
+# On-Going Projects
+Following are the projects I work on.  
+More information about my open source contributions is available on [github](https://github.com/RoyinRolland/).
 
-### Contact me
+# Research
 
-[email@domain.com](mailto:email@domain.com)
+My research interests:  
+Aspect oriented programming (AOP)  
+Domain specific languages (DSL)  
+Software development methodologies and tools.
+
+## Publications {#publications}
+
+## Awards
+
+
